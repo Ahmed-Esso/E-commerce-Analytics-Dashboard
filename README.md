@@ -129,11 +129,13 @@ The project includes 15+ interactive visualizations:
 | customer_lifetime_value | CLV calculation |
 | retention_score | Retention score |
 
-## 👤 Author
-
-**Ahmed Esso**
-- GitHub: [@Ahmed-Esso](https://github.com/Ahmed-Esso)
-
+## 👥 The Team
+This work was a collaborative effort by:
+* **[@Ahmed-Esso](https://github.com/Ahmed-Esso)** | [LinkedIn](https://www.linkedin.com/in/-ahmed-essam-/) (Team Leader)
+* **[@Mayar-Hany](https://github.com/Mayar-hany-2005)** | [LinkedIn](https://www.linkedin.com/in/mayar-h-139a2a2a6)
+* **[@Toqa10](https://github.com/Toqa10)** | [LinkedIn](https://www.linkedin.com/in/toqa-mohammed-mahfouz/)
+* **[@ZiadAbdeen](https://github.com/ZiadAbdeen)** | [LinkedIn](https://www.linkedin.com/in/ziad-abdeen-kamal-a138a0356/)
+  
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
