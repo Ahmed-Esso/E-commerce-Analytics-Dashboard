@@ -2,9 +2,15 @@
 
 A comprehensive e-commerce analytics solution featuring a Streamlit dashboard and Python data analysis scripts for analyzing customer behavior, marketing performance, and sales metrics.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://e-commerce-analytics-dashboard-pbb.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-green.svg)
+
+## 🚀 Live Demo
+
+**👉 [View Live Dashboard](https://e-commerce-analytics-dashboard-pbb.streamlit.app/)**
 
 ## 🌟 Features
 
@@ -30,30 +36,35 @@ E-commerce-Analytics-Dashboard/
 ├── data/
 │   ├── README.md                       # Data documentation
 │   ├── sample_advanced_ecommerce_analytics.csv   # Raw data sample
-│   └── sample_cleaned_ecommerce_data.csv         # Processed data sample
+│   └── cleaned_ecommerce_data.csv      # Processed data
 └── notebooks/
     └── ecommerce_analysis.py           # Data analysis script
 ```
 
 ## 🚀 Quick Start
 
-### 1. Clone the Repository
+### Option 1: Use the Live App
+Visit the [Live Dashboard](https://e-commerce-analytics-dashboard-pbb.streamlit.app/) - no installation required!
+
+### Option 2: Run Locally
+
+#### 1. Clone the Repository
 ```bash
 git clone https://github.com/Ahmed-Esso/E-commerce-Analytics-Dashboard.git
 cd E-commerce-Analytics-Dashboard
 ```
 
-### 2. Install Dependencies
+#### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the Dashboard
+#### 3. Run the Dashboard
 ```bash
 streamlit run app.py
 ```
 
-### 4. Run the Analysis Script
+#### 4. Run the Analysis Script
 ```bash
 python notebooks/ecommerce_analysis.py
 ```
