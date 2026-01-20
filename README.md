@@ -2,7 +2,7 @@
 
 A comprehensive e-commerce analytics solution featuring a Streamlit dashboard and Python data analysis scripts for analyzing customer behavior, marketing performance, and sales metrics.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://e-commerce-analytics-dashboard-pbb.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://e-commerce-analytics-dashboard-ga4tczet8rminqltnfbzyv.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
@@ -10,7 +10,7 @@ A comprehensive e-commerce analytics solution featuring a Streamlit dashboard an
 
 ## 🚀 Live Demo
 
-**👉 [View Live Dashboard](https://e-commerce-analytics-dashboard-pbb.streamlit.app/)**
+**👉 [View Live Dashboard](https://e-commerce-analytics-dashboard-ga4tczet8rminqltnfbzyv.streamlit.app/)**
 
 ## 🌟 Features
 
