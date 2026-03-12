@@ -10,7 +10,7 @@ A comprehensive e-commerce analytics solution featuring a Streamlit dashboard an
 
 ## 🚀 Live Demo
 
-**👉 [View Live Dashboard](https://e-commerce-analytics-dashboard-ga4tczet8rminqltnfbzyv.streamlit.app/)**
+**👉 [View Live Dashboard](https://e-commerce-analytics-dashboard0.streamlit.app/)**
 
 ## 🌟 Features
 
